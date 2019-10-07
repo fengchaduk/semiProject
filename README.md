@@ -37,7 +37,7 @@
 - 검색 기능
 
 <br />
-<img src="/images/mentor_write.png" style="width: 500px; height: 350px" />
+<img src="/images/freeboard_write.png" style="width: 500px; height: 350px" />
 <br />
 
 - JSTL 이용하여 회원만 글쓰기 가능하도록 구현
